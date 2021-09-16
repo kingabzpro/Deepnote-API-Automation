@@ -1,7 +1,7 @@
 import os
 import requests
 
-api_key = os.environ["DEEPNOTE_KEY"]
+api_key = os.environ["DEEPNOTE_API_KEY"]
 project_id = "9c9b0b38-4193-406f-ba7b-0e5147327dd5"
 
 notebook_id = "05fe16e1-ee0a-4da6-8e05-546ae0f7c441"
